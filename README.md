@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Cloud Computing ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <p align="center">
   <samp>
     Hi, I'm Lázaro! 👋 <br>
@@ -26,3 +26,13 @@ Here are some ideas to get you started:
     :briefcase: LinkedIn: https://linkedin.com/in/lazaromer97 <br>
   </samp>
 </p>
+-->
+
+### Hi there 👋
+
+- 🔭 I’m currently working on improve my skills
+- 🌱 I’m currently learning new technologies
+- 💬 Ask me about algorithms, apps development, and good practices
+- 📫 How to reach me: lazaromer97@gmail.com
+- 🎨 Porfolio: [lazaroestrada.site](https://lazaroestrada.site/ "Portfolio")
+- 💼 LinkedIn: [linkedin.com/in/lazaromer97](https://www.linkedin.com/in/lazaromer97/ "LinkedIn")
