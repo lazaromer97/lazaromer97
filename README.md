@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working to improve my skills, and learning new technologies
 - 💬 Ask me about algorithms, apps development, and good practices
 - 📫 How to reach me: lazaromer97@gmail.com
-- 🎨 Porfolio: [lazaroestrada.site](https://lazaroestrada.com/ "Portfolio")
+- 🎨 Porfolio: [lazaroestrada.com](https://lazaroestrada.com/ "Portfolio")
 - 💼 LinkedIn: [linkedin.com/in/lazaromer97](https://www.linkedin.com/in/lazaromer97/ "LinkedIn")
