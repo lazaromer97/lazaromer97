@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###  Hi all, I'm Lázaro 👋
 
-A professional software developer with +5 years 🚀 of IT experiences working with patterns and best practices, trained to develop web and mobile applications with end-user experience, teamwork abilities, proactive, self-motivation, quick learning, sound reasoning, and problem-solving skills.
+A professional software developer with +6 years 🚀 of IT experiences working with patterns and best practices, trained to develop web and mobile applications with end-user experience, teamwork abilities, proactive, self-motivation, quick learning, sound reasoning, and problem-solving skills.
 
 - 🔭 I’m currently working to improve my skills, and learning new technologies
 - 💬 Ask me about algorithms, apps development, and good practices
