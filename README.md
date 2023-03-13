@@ -33,11 +33,7 @@ A professional software developer with +6 years 🚀 of IT experiences working w
   <em>Powered by <a href="https://codersrank.io">CodersRank</a></em>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazaromer97&count_private=true&show_icons=true&theme=monokai&hide_border=true" alt="GitHub stats card" />
-  <br/>
-  <em>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></em>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lazaromer97&column=4&theme=monokai&no-frame=true&margin-h=5&margin-w=5" alt="GitHub tropies card" />
