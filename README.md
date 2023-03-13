@@ -33,7 +33,7 @@ A professional software developer with +6 years 🚀 of IT experiences working w
   <em>Powered by <a href="https://codersrank.io">CodersRank</a></em>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lazaromer97)](https://github.com/lazaromer97/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lazaromer97&column=4&theme=monokai&no-frame=true&margin-h=5&margin-w=5" alt="GitHub tropies card" />
