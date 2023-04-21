@@ -52,7 +52,7 @@
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaromer97&layout=compact&theme=vision-friendly-dark"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaromer97&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=272A35"></img>
     <br/>
     <em>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats</a></em>
   </p>
