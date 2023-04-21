@@ -13,14 +13,10 @@
     </a>
   </div>
   
-  <h1>Hi all, I'm Lazaro Estrada 👋</h1>
+  <h1>Hi, I'm Lazaro Estrada 👋</h1>
 
   <p>
-    A software engineer with +6 years of IT experience working with patterns and best
-    practices, trained to develop web applications. He has experience using JavaScript, Node, Express,
-    Nest, React, Next, Python, Django, Flask, PHP, Symfony, Laravel, WordPress, Java, Git, SQL, PostgreSQL,
-    MySQL, MongoDB, Docker, AWS, and many other technologies. Excellent team worker, proactive, self-motivated,
-    quick learner, and problem-solving skills.
+    A software engineer with +6 years of IT experience working with patterns and best practices, trained to develop web applications. I have experience using JavaScript, Node, Express, Nest, React, Next, Python, Django, Flask, PHP, Symfony, Laravel, WordPress, Java, Git, SQL, PostgreSQL, MySQL, MongoDB, Docker, AWS, and many other technologies, excellent team worker, proactive, self-motivated, quick learner, and problem-solving skills.
   </p>
 
 
@@ -48,12 +44,20 @@
 </div>
 
 <div id="content" align="center">
-  <h2>✨More✨</h2>
+  <h2>🔥 My Stats</h2>
+
+  <p>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=lazaromer97&theme=dark&background=393f56"></img>
+    <br/>
+    <em>Powered by <a href="http://github-readme-streak-stats.herokuapp.com">GitHub Streak</a></em>
+  </p>
 
   <p>
     <a href="https://profile.codersrank.io/user/lazaromer97/"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lazaromer97&badges=3&show-avatar=false&style=--header-bg-color:%23272A35;--bg-color:%23272A35;--header-text-color:%23ffffff;--badge-bg-color:%23393f56;--badge-margin:5px;--badge-text-color:%23ffffff;--border:none;--border-radius:4px;--name-font-size:0;--rank-font-size:9px;--badge-rank-font-size:9px;--badge-location-font-size:9px;--badge-technology-font-size:7px;--branding-text-color:%23e28905&width=240&branding=false&layout=horizontal"/></a>
     <br/>
     <em>Powered by <a href="https://codersrank.io">CodersRank</a></em>
   </p>
+
+
 
 </div>
