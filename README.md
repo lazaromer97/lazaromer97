@@ -58,7 +58,7 @@
   </p>
 
   <p>
-    <a href="https://profile.codersrank.io/user/lazaromer97/"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lazaromer97&badges=3&show-avatar=false&style=--header-bg-color:%23272A35;--bg-color:%23272A35;--header-text-color:%23fb8c00;--badge-bg-color:%23393f56;--badge-margin:5px;--badge-text-color:%23ffffff;--border:none;--border-radius:4px;--name-font-size:0;--rank-font-size:9px;--badge-rank-font-size:9px;--badge-location-font-size:9px;--badge-technology-font-size:7px;--branding-text-color:%23e28905&width=240&branding=false&layout=horizontal"/></a>
+    <a href="https://profile.codersrank.io/user/lazaromer97/"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lazaromer97&badges=3&show-avatar=false&style=--header-bg-color:%23272A35;--bg-color:%23272A35;--header-text-color:%23feaf00;--badge-bg-color:%23393f56;--badge-margin:5px;--badge-text-color:%23ffffff;--border:none;--border-radius:4px;--name-font-size:0;--rank-font-size:9px;--badge-rank-font-size:9px;--badge-location-font-size:9px;--badge-technology-font-size:7px;--branding-text-color:%23e28905&width=240&branding=false&layout=horizontal"/></a>
     <br/>
     <em>Powered by <a href="https://codersrank.io">CodersRank</a></em>
   </p>
