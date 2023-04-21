@@ -47,7 +47,7 @@
   <h2>🔥 My Stats</h2>
 
   <p>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=lazaromer97&theme=dark&background=393f56"></img>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=lazaromer97&theme=dark&background=272A35&hide_border=true"></img>
     <br/>
     <em>Powered by <a href="http://github-readme-streak-stats.herokuapp.com">GitHub Streak</a></em>
   </p>
