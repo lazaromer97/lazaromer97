@@ -40,7 +40,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
-
 </div>
 
 <div id="content" align="center">
@@ -53,11 +52,14 @@
   </p>
 
   <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark"></img>
+    <br/>
+    <em>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats</a></em>
+  </p>
+
+  <p>
     <a href="https://profile.codersrank.io/user/lazaromer97/"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lazaromer97&badges=3&show-avatar=false&style=--header-bg-color:%23272A35;--bg-color:%23272A35;--header-text-color:%23ffffff;--badge-bg-color:%23393f56;--badge-margin:5px;--badge-text-color:%23ffffff;--border:none;--border-radius:4px;--name-font-size:0;--rank-font-size:9px;--badge-rank-font-size:9px;--badge-location-font-size:9px;--badge-technology-font-size:7px;--branding-text-color:%23e28905&width=240&branding=false&layout=horizontal"/></a>
     <br/>
     <em>Powered by <a href="https://codersrank.io">CodersRank</a></em>
   </p>
-
-
-
 </div>
