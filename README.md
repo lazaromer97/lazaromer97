@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.lazaroestrada.com/me/LazaroEstradaAvatar.png" width="200"/>
+  <!--   <img src="https://www.lazaroestrada.com/me/LazaroEstradaAvatar.png" width="200"/> -->
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/lazaromer97" target="_blank">
