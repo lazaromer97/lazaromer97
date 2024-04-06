@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=lazaromer97&color=blue" alt="Profile Views"/>
 
   <p>
-    A software engineer with +6 years of IT experience working with patterns and best practices, trained to develop web applications. I have experience using JavaScript, Node, Express, Nest, React, Next, Python, Django, Flask, PHP, Symfony, Laravel, WordPress, Java, Git, SQL, PostgreSQL, MySQL, MongoDB, Docker, AWS, and many other technologies, excellent team worker, proactive, self-motivated, quick learner, and problem-solving skills.
+    A software engineer with +7 years of IT experience working with patterns and best practices, trained to develop web applications. I have experience using JavaScript, Node, Express, Nest, React, Next, Python, Django, Flask, PHP, Symfony, Laravel, WordPress, Java, Git, SQL, PostgreSQL, MySQL, MongoDB, Docker, AWS, and many other technologies, excellent team worker, proactive, self-motivated, quick learner, and problem-solving skills.
   </p>
 
   <h2>💻 Platforms :</h2>
